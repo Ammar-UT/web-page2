@@ -1,0 +1,64 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.container{
+    background-color: rgb(120, 253, 169);
+    padding: 200px;
+}
+
+.container2{
+    background-color: aliceblue;
+    padding: 100px;
+    border-radius: 10px;
+    margin: 10px auto;
+}
+h1{
+    letter-spacing: -2px;
+    font-size: 55px;
+}
+p{
+    font-size: 18px;
+    font-weight: 300;
+    color:gray;
+    font-style: italic;
+
+}
+.blue-btn , .green-btn , .red-btn{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+.blue-btn{
+    background-color: rgb(0, 95, 153);
+    
+}
+.green-btn{
+    background-color: rgb(0, 137, 0);
+}
+.red-btn{
+    background-color: rgb(151, 6, 6);
+}
+li{
+    padding: 10px;
+}
+ol li{
+    font-size: 16px;
+}
+button{
+    font-size: 16px;
+}
+
+.a2{
+    display: block;
+
+}
+.a2 input{
+    /* height: 100%; */
+    padding: 10px;
+}
+.a1{
+    background-color: rgb(187, 187, 187);
+    text-decoration:line-through;
+}
+
